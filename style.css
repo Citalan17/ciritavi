@@ -1,0 +1,19 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+    color: #24292f; /* Color de texto predeterminado de GitHub */
+    line-height: 1.5;
+}
+
+a {
+    color: #0969da; /* Azul de enlaces de GitHub */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2 {
+    border-bottom: 1px solid #d0d7de;
+    padding-bottom: 0.3em;
+}
